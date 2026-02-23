@@ -7,8 +7,8 @@
 🚀 Focused on building practical, real-world technical skills
 
 I continuously work on improving my knowledge in backend development, database systems, and network architecture.
-
 🛠️ Technical Skills
+<hr>
 💻 Programming
 
 C#
@@ -18,7 +18,7 @@ SQL (MS SQL Server, SQLite)
 Python (Basics)
 
 HTML & CSS
-
+<hr>
 🗄️ Database
 
 Database Normalization
@@ -28,7 +28,7 @@ ER Modeling
 Constraints & Relationships
 
 Query Optimization
-
+<hr>
 🌐 Networking
 
 TCP/IP Model
@@ -38,7 +38,7 @@ DNS, DHCP, HTTP
 Cisco Packet Tracer
 
 Wireless Networking
-
+<hr>
 🖥️ Tools
 
 Git & GitHub
