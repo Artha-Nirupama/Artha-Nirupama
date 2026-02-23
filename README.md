@@ -7,49 +7,47 @@
 🚀 Focused on building practical, real-world technical skills
 
 I continuously work on improving my knowledge in backend development, database systems, and network architecture.
+<hr>
 🛠️ Technical Skills
-<hr>
-💻 Programming
+<table>
+  <tr>
+    <td>
+      💻 Programming
+      C#
+      SQL (MS SQL Server, SQLite)
+      Python
+      HTML & CSS
+    </td>
+    <td>
+      🗄️ Database
+      Database Normalization
+      ER Modeling
+      Constraints & Relationships
+      Query Optimization
+    </td>
+  </tr>
+    <td>
+      🌐 Networking
+      TCP/IP Model
+      DNS, DHCP, HTTP
+      Cisco Packet Tracer
+      Wireless Networking
+    </td>
+  <tr>
+    <td>
+      🖥️ Tools
+      Git & GitHub
+      Visual Studio
+      Visual Studio Code
+      SQL Server Management Studio (SSMS)
+      My SQL Server
+      Kali Linux
+      Microsoft Visio
+    </td>
+  </tr>
+</table>
 
-C#
 
-SQL (MS SQL Server, SQLite)
-
-Python (Basics)
-
-HTML & CSS
-<hr>
-🗄️ Database
-
-Database Normalization
-
-ER Modeling
-
-Constraints & Relationships
-
-Query Optimization
-<hr>
-🌐 Networking
-
-TCP/IP Model
-
-DNS, DHCP, HTTP
-
-Cisco Packet Tracer
-
-Wireless Networking
-<hr>
-🖥️ Tools
-
-Git & GitHub
-
-Visual Studio
-
-SQL Server Management Studio (SSMS)
-
-Kali Linux
-
-Microsoft Visio
 
 📂 Academic & Personal Projects
 
