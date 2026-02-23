@@ -26,6 +26,7 @@ I continuously work on improving my knowledge in backend development, database s
       Query Optimization
     </td>
   </tr>
+  <tr>
     <td>
       🌐 Networking
       TCP/IP Model
@@ -33,7 +34,6 @@ I continuously work on improving my knowledge in backend development, database s
       Cisco Packet Tracer
       Wireless Networking
     </td>
-  <tr>
     <td>
       🖥️ Tools
       Git & GitHub
