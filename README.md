@@ -1,72 +1,55 @@
-👋 Hi, I'm Artha Nirupama
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Undergraduate+IT+Student;Aspiring+Software+Engineer;Database+%26+Networking+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /> </p>
-👨‍🎓 About Me
+<div align="center">
 
-🎓 Undergraduate Student passionate about Information Technology
-💻 Interested in Software Development, Databases & Networking
-🚀 Focused on building practical, real-world technical skills
+### 👋 Hi, I'm Artha Nirupama
 
-I continuously work on improving my knowledge in backend development, database systems, and network architecture.
-<hr>
-🛠️ Technical Skills
-<table>
-  <tr>
-    <td>
-      💻 Programming
-      C#
-      SQL (MS SQL Server, SQLite)
-      Python
-      HTML & CSS
-    </td>
-    <td>
-      🗄️ Database
-      Database Normalization
-      ER Modeling
-      Constraints & Relationships
-      Query Optimization
-    </td>
-  </tr>
-  <tr>
-    <td>
-      🌐 Networking
-      TCP/IP Model
-      DNS, DHCP, HTTP
-      Cisco Packet Tracer
-      Wireless Networking
-    </td>
-    <td>
-      🖥️ Tools
-      Git & GitHub
-      Visual Studio
-      Visual Studio Code
-      SQL Server Management Studio (SSMS)
-      My SQL Server
-      Kali Linux
-      Microsoft Visio
-    </td>
-  </tr>
-</table>
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Undergraduate+IT+Student;Aspiring+Software+Engineer;Database+%26+Networking+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /> 
+</p>
 
+---
 
+### 👨‍🎓 About Me
 
-📂 Academic & Personal Projects
+🎓 Undergraduate IT Student passionate about technology  
+💻 Interested in Software Development, Databases & Networking  
+🚀 Focused on building practical, real-world technical skills  
 
-🔹 Student Management System (Database Design & Normalization)
-🔹 Network Topology Design & Protocol Analysis
-🔹 Arduino Bluetooth Controlled Car Project
+> I continuously work on improving my knowledge in backend development, database systems, and network architecture.
 
-📚 Currently Learning
+---
 
-Advanced SQL (Procedures, Triggers, Security)
+### 🛠️ Technical Skills Matrix
 
-Authentication Systems (Hashed Passwords & Roles)
+| 💻 Programming | 🗄️ Database |
+| :--- | :--- |
+| **C#** | Database Normalization |
+| **SQL (MS SQL, SQLite)** | ER Modeling |
+| **Python** | Constraints & Relationships |
+| **HTML & CSS** | Query Optimization |
 
-GitHub Professional Workflow
+| 🌐 Networking | 🖥️ Tools |
+| :--- | :--- |
+| TCP/IP Model | Git & GitHub |
+| DNS, DHCP, HTTP | Visual Studio |
+| Cisco Packet Tracer | VS Code |
+| Wireless Networking | SQL Server Management Studio (SSMS) |
+| | Kali Linux |
+| | Microsoft Visio |
 
-Secure System Architecture
+---
 
-🎯 Career Objective
+### 📂 Projects & Learning
 
-To grow into a highly skilled Software Engineer / System Engineer capable of designing secure, scalable, and efficient systems.
+**Academic & Personal Projects**  
+- Student Management System (Database Design & Normalization)  
+- Network Topology Design & Protocol Analysis  
+- Arduino Bluetooth Controlled Car Project  
 
-⭐ Committed to continuous improvement and professional growth.
+**Currently Learning**  
+
+[![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-Procedures%20%26%20Triggers-blue?style=for-the-badge&logo=mysql)](#) 
+[![Auth](https://img.shields.io/badge/Auth-Hashed%20%26%20Roles-purple?style=for-the-badge&logo=jwt)](#) 
+[![GitHub Flow](https://img.shields.io/badge/GitHub-Professional%20Workflow-black?style=for-the-badge&logo=github)](#)
+[![System Security](https://img.shields.io/badge/System_Security-Architecture-red?style=for-the-badge&logo=security)](#)
+
+---
