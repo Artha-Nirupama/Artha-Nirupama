@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Artha Nirupama
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Undergraduate+IT+Student;Aspiring+Software+Engineer;Database+%26+Networking+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Undergraduate+BIT(Honours)+Student;Aspiring+Software+Engineer;Database+%26+Networking+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /> 
 </p>
 
 ---
