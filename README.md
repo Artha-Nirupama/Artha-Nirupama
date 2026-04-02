@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 
-🎓 Undergraduate IT Student passionate about technology  
+🎓 Undergraduate BIT(Honours) Student passionate about technology  
 💻 Interested in Software Development, Databases & Networking  
 🚀 Focused on building practical, real-world technical skills  
 
